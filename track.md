@@ -1,10 +1,10 @@
 # 16/02/2021
 
-[x] UnpackingASequenceIntoSeparateVariables
-[x] UnpackingElementsFromIterablesOfAbitraryLength
+-[x] UnpackingASequenceIntoSeparateVariables.py
+-[x] UnpackingElementsFromIterablesOfAbitraryLength.py
 
 # 17/02/2021
 
-[x] FindingTheLargestOrSmallestNItems
-[x] KeepingTheLastNItems
-[x] ImplementingAPriorityQueue
+-[x] FindingTheLargestOrSmallestNItems.py
+-[x] KeepingTheLastNItems.py
+-[x] ImplementingAPriorityQueue.py
